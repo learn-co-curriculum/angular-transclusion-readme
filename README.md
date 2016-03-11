@@ -65,7 +65,7 @@ It's as simple as that! When Angular runs, we will end up with this rendered in 
 
 ```html
 <our-directive>
-	<div calss="ourDirective">
+	<div class="ourDirective">
 		The content of our directive is: <span>Content here! We want to put custom content in our directive!</span>
 	</div>
 </our-directive>
