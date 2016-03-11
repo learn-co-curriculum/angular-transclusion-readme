@@ -1,10 +1,10 @@
 # Transclusion
 
+## Overview
+
+We've already used the `transclude` property, but we don't quite know what it is yet. Let's see how we can use the `transclude` property to customize content inside of our directives. 
+
 ## Objectives
-
-We've already used the `transclude` property, but we don't quite know what it is yet.
-
-## Instructions
 
 - Describe transclusion
 - Describe the "transclude" property
@@ -13,7 +13,7 @@ We've already used the `transclude` property, but we don't quite know what it is
 
 ## Transclusion
 
-Say we want to be able to use our directive like this:
+Say we want to be able to customize the content inside of our directives, like so:
 
 ```html
 <our-directive>
