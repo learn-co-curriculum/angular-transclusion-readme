@@ -23,7 +23,7 @@ Say we want to be able to use our directive like this:
 
 Up until now, any content *inside* the directive would be replaced by our template. However, we can change that and actually put the content into our template, and also control where we want to put it - awesome!
 
-To do this, we add a property named `transclude` to our directive. We will set this to `true` for now.
+To do this, we add a property named `transclude` to our directive. We will set this to `true` for now. This lets us use the `ng-transclude` directive.
 
 ```js
 function ourDirective() {
