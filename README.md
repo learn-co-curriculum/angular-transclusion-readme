@@ -70,3 +70,7 @@ It's as simple as that! When Angular runs, we will end up with this rendered in 
 	</div>
 </our-directive>
 ```
+
+## Resources
+* (Transclusion in 120 Seconds)[https://www.youtube.com/watch?v=HnYT3Wq2iS8]
+<p class='util--hide'>View <a href='https://learn.co/lessons/angular-transclusion-readme'>Angular Transclusion </a> on Learn.co and start learning to code for free.</p>
